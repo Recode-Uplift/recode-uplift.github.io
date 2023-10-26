@@ -1,2 +1,2 @@
-# recode-uplift.github.io
-Github Pages for Recode Uplift Information
+# Recode-Uplift
+A project that teaches 4th and 5th graders to code
